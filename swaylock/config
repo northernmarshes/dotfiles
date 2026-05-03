@@ -1,0 +1,43 @@
+daemonize
+show-failed-attempts
+
+effect-blur=7x5
+fade-in=0.2
+indicator
+clock
+font=JetBrainsMono Nerd Font
+
+# color=2d353b
+image=/home/edna/walls/pexels-ekrulila-32416083.jpg
+
+# Ring 
+
+indicator-radius=200
+indicator-thickness=20
+
+inside-color=343f44
+ring-color=343f44
+
+# ring-color=a7c080
+# line-color=343f44
+# separator-color=343f44
+
+# ring-color=a7c080
+line-color=343f44
+separator-color=00000000
+
+text-color=d3c6aa
+text-clear-color=dbbc7f
+text-ver-color=7fbbb3
+text-wrong-color=e67e80
+
+ring-clear-color=dbbc7f
+ring-ver-color=7fbbb3
+ring-wrong-color=e67e80
+
+inside-clear-color=343f44
+inside-ver-color=343f44
+inside-wrong-color=343f44
+
+key-hl-color=a7c080
+bs-hl-color=e67e80

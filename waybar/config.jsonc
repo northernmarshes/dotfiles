@@ -1,0 +1,73 @@
+{
+    "layer": "top",
+    "position": "top",
+    "height": 32,
+    "spacing": 4,
+    "margin-top": 0,
+    "margin-left": 0,
+    "margin-right": 0,
+
+    "modules-left": ["custom/nix", "sway/workspaces", "sway/mode"],
+    "modules-center": ["clock"],
+    "modules-right": ["bluetooth", "pulseaudio", "network", "battery", "tray"],
+
+    "custom/nix": {
+        "format": "",
+        "tooltip": false,
+        "on-click": "ghostty -e bash -c 'fastfetch; read'"
+    },
+
+    "sway/workspaces": {
+        "disable-scroll": true,
+        "all-outputs": true,
+        "format": "{name}"
+    },
+
+    "sway/mode": {
+        "format": "<span style='italic'>{}</span>"
+    },
+
+    "clock": {
+        "format": "  {:%H:%M}",
+        "format-alt": "  {:%A, %d %B %Y}",
+        "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>"
+    },
+
+    "battery": {
+        "states": {
+            "good": 95,
+            "warning": 30,
+            "critical": 15
+        },
+        "format": "{icon}  {capacity}%",
+        "format-charging": "󰂄  {capacity}%",
+        "format-plugged": "󰁹  {capacity}%",
+        "format-icons": ["", "", "", "", ""]
+    },
+
+    "bluetooth": {
+      "format": "󰂯",
+      "on-click": "ghostty -e bluetui"
+    },
+
+    "network": {
+        "format-wifi": "  {signalStrength}%",
+        "format-ethernet": "󰈀  {ipaddr}",
+        "format-disconnected": "󰖪  offline",
+        "tooltip-format": "{essid} ({signalStrength}%) — {ipaddr}",
+        "on-click": "ghostty -e impala"
+    },
+
+    "pulseaudio": {
+        "format": "{icon}  {volume}%",
+        "format-muted": "  mute",
+        "format-icons": {
+            "default": ["", "", ""]
+        },
+        "on-click": "pavucontrol"
+    },
+
+    "tray": {
+        "spacing": 8
+    }
+}

@@ -1,0 +1,8 @@
+width=800
+height=600
+location=center
+show=drun
+prompt= 攻殻機動隊
+allow_markup=true
+insensitive=true
+gtk_dark=true
