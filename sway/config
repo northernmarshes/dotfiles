@@ -61,14 +61,14 @@ exec swayidle -w \
 # Key bindings
 
     # Start a terminal
-    bindsym $mod+Return exec $term
+    bindsym $mod+Return exec $term 
 
     # File manager
     bindsym $mod+e exec nautilus
 
     # Kill focused window
     bindsym $mod+q kill
-    bindsym $mod+w kill
+    # bindsym $mod+w kill
 
     # Start your launcher
     bindsym $mod+Space exec $menu --show drun
