@@ -1,1 +1,3 @@
-My dotfiles, crafted for Nix and Arch
+Take a nap\
+Making the mountain water\
+Pound the rice.\
