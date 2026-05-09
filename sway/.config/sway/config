@@ -30,7 +30,7 @@ set $menu wofi
 
 
 # Default wallpaper (more resolutions are available in /run/current-system/sw/share/backgrounds/sway/)
-output * bg ~/walls/pexels-ekrulila-32416083.jpg fill
+output * bg /home/edna/walls/01.jpg fill
 
 
 # output HDMI-A-1 resolution 1920x1080 position 1920,0
@@ -74,8 +74,8 @@ exec swayidle -w \
     bindsym $mod+Space exec $menu --show drun
 
     # Zen
-    bindsym $mod+z exec zen
-    bindsym $mod+Prior exec zen
+    bindsym $mod+z exec zen-browser
+    bindsym $mod+Prior exec zen-browser
 
     # Yazi
     bindsym $mod+y exec $term -e yazi

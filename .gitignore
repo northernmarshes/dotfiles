@@ -1,0 +1,7 @@
+# fish
+fish_variables
+
+# gimp
+gimp/.config/GIMP/*
+!gimp/.config/GIMP/shortcutsrc
+

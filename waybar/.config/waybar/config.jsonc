@@ -9,10 +9,11 @@
 
     "modules-left": ["custom/nix", "sway/workspaces", "sway/mode"],
     "modules-center": ["clock"],
-    "modules-right": ["bluetooth", "pulseaudio", "network", "battery", "tray"],
+    // "modules-right": ["bluetooth", "pulseaudio", "network", "battery", "tray"],
+    "modules-right": ["pulseaudio", "network", "battery", "tray"],
 
     "custom/nix": {
-        "format": "",
+        "format": "󰣇",
         "tooltip": false,
         "on-click": "ghostty -e bash -c 'fastfetch; read'"
     },
@@ -45,10 +46,10 @@
         "format-icons": ["", "", "", "", ""]
     },
 
-    "bluetooth": {
-      "format": "󰂯",
-      "on-click": "ghostty -e bluetui"
-    },
+    // "bluetooth": {
+    //   "format": "󰂯",
+    //   "on-click": "ghostty -e bluetui"
+    // },
 
     "network": {
         "format-wifi": "  {signalStrength}%",
