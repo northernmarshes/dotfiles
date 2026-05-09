@@ -30,7 +30,7 @@ set $menu wofi
 
 
 # Default wallpaper (more resolutions are available in /run/current-system/sw/share/backgrounds/sway/)
-output * bg /home/edna/walls/01.jpg fill
+output * bg /home/edna/walls/pexels-ekrulila-32416083.jpg fill
 
 
 # output HDMI-A-1 resolution 1920x1080 position 1920,0
