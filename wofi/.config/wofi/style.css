@@ -1,0 +1,54 @@
+* {
+  font-family: "0xProto Nerd Font";
+  font-size: 22px;
+}
+
+window {
+  background-color: #2b3339;
+  border: 5px solid #3d484d;
+}
+
+#input {
+  background-color: #323c41;
+  color: #d3c6aa;
+  border: 1px solid #3d484d;
+  border-radius: 2px;
+  padding: 8px 12px;
+  margin: 8px;
+}
+
+#input:focus {
+  border-color: #a7c080;
+}
+
+#inner-box {
+  background-color: transparent;
+  margin: 0 8px 8px 8px;
+}
+
+#outer-box {
+  padding: 4px;
+}
+
+#scroll {
+  background-color: transparent;
+}
+
+#text {
+  color: #d3c6aa;
+  padding: 2px 8px;
+}
+
+#entry {
+  border-radius: 2px;
+  padding: 4px;
+  transition: all 0.15s ease;
+}
+
+#entry:selected {
+  background-color: #3d484d;
+}
+
+#entry:selected #text {
+  color: #a7c080;
+}

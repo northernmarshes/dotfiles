@@ -1,0 +1,52 @@
+background-opacity = 0.90
+custom-shader = /home/edna/dotfiles/ghostty/shaders/cursor_smear.glsl
+
+# Blur doesn't work on vanilla sway
+# background-blur = true
+# background-blur-radius = 90
+
+title = ""
+cursor-opacity = 0.7
+window-decoration = false
+gtk-titlebar = false
+window-padding-x = 10
+window-padding-y = 5
+font-size = 14
+font-family = "0xProto Nerd Font"
+
+# Everforest Dark
+background = #2B3339
+foreground = #D3C6AA
+cursor-color = #D3C6AA
+
+# Black
+palette = 0=#374247
+palette = 8=#475258
+
+# Red
+palette = 1=#E67E80
+palette = 9=#E67E80
+
+# Green
+palette = 2=#A7C080
+palette = 10=#A7C080
+
+# Yellow
+palette = 3=#DBBC7F
+palette = 11=#DBBC7F
+
+# Blue
+palette = 4=#7FBBB3
+palette = 12=#7FBBB3
+
+# Magenta
+palette = 5=#D699B6
+palette = 13=#D699B6
+
+# Cyan
+palette = 6=#83C092
+palette = 14=#83C092
+
+# White
+palette = 7=#D3C6AA
+palette = 15=#E9E8D2
