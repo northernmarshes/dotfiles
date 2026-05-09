@@ -1,0 +1,37 @@
+# -*- mode: snippet -*-
+# name: bug report
+# key: bug
+# --
+* Title / Summary: ${1:Title / Summary}                                       
+  :PROPERTIES:
+  :Id: ${2:}
+  :Priority:${3:$$(yas-choose-value '("High" "Medium" "Low" "Critical"))}:
+  :Status: ${4:$$(yas-choose-value '("OPEN" "FIXED"))}
+  :Environment:${5:}
+  :Version: ${6:}
+  :Reporter: ${7:Your Name}
+  :Assignee: ${8:Assignee Name}
+  :Date: ${9:}
+  :END:
+
+** Steps to Reproduce
+   1. ${10:Step 1}
+   2. ${11:Step 2}
+   3. ${12:Step 3}
+   4. ${13:Step 4}
+
+** Expected Result
+   - ${14:Expected outcome 1}
+   - ${15:Expected outcome 2}
+   - ${16:Expected outcome 3}
+
+** Actual Result
+   - ${17:Actual outcome 1}
+   - ${18:Actual outcome 2}
+
+** Attachments / Screenshots
+   - ${19:Attach screenshots or logs}
+
+** Notes / Observations
+   - ${20:Additional notes, suggestions, recommendations}
+

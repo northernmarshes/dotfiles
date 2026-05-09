@@ -1,0 +1,33 @@
+# -*- mode: snippet -*-
+# name: manual test case with technique prefix
+# key: tcase
+# --
+Test Case ID: ${1:`(yas-choose-value '("EP" "BVA" "STT" "UC" "EX" "TC"))`}-${2:001}
+Title: ${3:Krótki opis celu testu}
+Objective:
+  ${4:Cel testu, np. sprawdzenie czy użytkownik może się zalogować poprawnymi danymi}
+
+Preconditions:
+  - ${5:np. aplikacja uruchomiona}
+  - ${6:np. użytkownik posiada konto w systemie}
+
+Test Data:
+  - ${7:login = user1}
+  - ${8:hasło = password123}
+
+Steps:
+  1. ${9:np. Otwórz stronę logowania}
+  2. ${10:Wprowadź login i hasło}
+  3. ${11:Kliknij przycisk "Zaloguj"}
+
+Expected Result:
+  ${12:np. Użytkownik zostaje zalogowany i przekierowany na stronę główną}
+
+Actual Result:
+  ${13:Do uzupełnienia podczas testów}
+
+Status:
+  ${14:Not Run / Pass / Fail / Blocked}
+
+Comments:
+  ${15:Dodatkowe uwagi, np. link do screena lub logów}

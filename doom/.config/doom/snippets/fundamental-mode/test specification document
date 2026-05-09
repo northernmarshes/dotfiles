@@ -1,0 +1,68 @@
+# -*- mode: snippet -*-
+# name: test specification document
+# key: testspec
+# --
+Test ID: EP-TS-${1:<<NUMER_SPECYFIKACJI>>}
+Technique: Equivalence Partitioning
+
+Document Name: ${3:<<NAZWA_DOKUMENTU>>}
+Module/Application: ${4:<<NAZWA_APLIKACJI>>}
+Author: ${5:<<IMIĘ_I_NAZWISKO>>}
+Date: `(format-time-string "%Y-%m-%d")`
+Version: ${6:<<WERSJA>>}
+
+1. Purpose
+${7:<<CEL_DOKUMENTU - OPIS>>}
+
+2. Scope of Testing
+Includes:
+${8:<<ZAKRES_TESTOWANIA - CO>>}
+Excludes:
+${9:<<ZAKRES_TESTOWANIA - CZEGO NIE>>}
+
+3. Assumptions and Constraints
+${10:<<ZAŁOŻENIA_I_OGRANICZENIA>>}
+
+4. Test Environment
+- Operating System(s): ${11:<<SYSTEMY_OPERACYJNE>>}
+- Browser(s) / Platform(s): ${12:<<PRZEGLĄDARKI/PLATFORMA>>}
+- Device(s): ${13:<<URZĄDZENIA>>}
+- Application Version: ${14:<<WERSJA_APLIKACJI>>}
+
+5. Preconditions
+${15:<<WARUNKI_WSTĘPNE>>}
+
+6. Equivalence Classes Overview
+
+Class ID: ${16:<<ID_KLASY_EP>>}
+Description: ${17:<<OPIS_KLASY>>}
+Class Type: ${18:<<TYP_KLASY (valid/invalid)>>}
+Example Data: ${19:<<PRZYKŁADOWE_DANE>>}
+Expected Result: ${20:<<OCZEKIWANY_REZULTAT>>}
+
+Class ID: ${21:<<ID_KLASY_EP>>}
+Description: ${22:<<OPIS_KLASY>>}
+Class Type: ${23:<<TYP_KLASY (valid/invalid)>>}
+Example Data: ${24:<<PRZYKŁADOWE_DANE>>}
+Expected Result: ${25:<<OCZEKIWANY_REZULTAT>>}
+
+Class ID: ${26:<<ID_KLASY_EP>>}
+Description: ${27:<<OPIS_KLASY>>}
+Class Type: ${28:<<TYP_KLASY (valid/invalid)>>}
+Example Data: ${29:<<PRZYKŁADOWE_DANE>>}
+Expected Result: ${30:<<OCZEKIWANY_REZULTAT>>}
+
+7. Entry / Exit Criteria
+Entry Criteria:
+${31:<<KRYTERIA_WEJŚCIA>>}
+Exit Criteria:
+${32:<<KRYTERIA_WYJŚCIA>>}
+
+8. Risks and Mitigation
+${33:<<RYZYKA_I_DZIAŁANIA_NAPRAWCZE>>}
+
+9. References
+${34:<<REFERENCJE>>}
+
+10. Notes
+${35:<<NOTATKI>>}

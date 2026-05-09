@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: test-execution-entry
+# key: te
+# --
+** Execution
+| ${1:TC_ID} | ${2:AREA} | ${3:STATUS} | ${4:BUG_ID} | ${5:NOTES} |

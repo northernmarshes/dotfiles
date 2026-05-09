@@ -1,0 +1,87 @@
+# -*- mode: snippet -*-
+# name: test-cycle-execution
+# key: tcycle
+# --
+* Test Cycle ${1:001} - ${2:v1.0.0 Release}
+:PROPERTIES:
+:CYCLE_ID: CYCLE-${1:001}
+:TESTER: ${3:Edna}
+:DATE: `(format-time-string "%Y-%m-%d")`
+:START_TIME: ${4:}
+:END_TIME: ${5:}
+:BUILD_VERSION: ${2:v1.0.0}
+:ENVIRONMENT: ${6:Test}
+:STATUS: ${7:IN_PROGRESS}
+:END:
+
+** Cycle Overview
+- *Objective:* ${8:Full regression testing before release}
+- *Scope:* ${9:All manual test cases}
+- *Total Test Cases:* ${10:25}
+
+** Entry Criteria
+- [${11: }] Build deployed to test environment
+- [${12: }] Test data prepared
+- [${13: }] Previous critical bugs fixed
+- [${14: }] Test environment stable
+
+** Exit Criteria
+- [ ] All planned tests executed
+- [ ] No critical/high severity bugs open
+- [ ] Pass rate >= ${15:90}%
+- [ ] All bugs documented and triaged
+
+---
+
+$0
+
+---
+
+** Execution Summary
+
+*** Results Overview
+| TC ID | Title | Priority | Status | Time | Bugs | Notes |
+|-------+-------+----------+--------+------+------+-------|
+|       |       |          |        |      |      |       |
+|-------+-------+----------+--------+------+------+-------|
+| TOTAL |       |          | 0/0    | 0min | 0    |       |
+
+*** Statistics
+- *Total Executed:* 0/${10:25}
+- *Pass:* 0
+- *Fail:* 0
+- *Blocked:* 0
+- *Pass Rate:* 0%
+- *Total Time:* 0 minutes
+
+*** Bugs Summary
+| Bug ID | TC ID | Severity | Status | Title |
+|--------+-------+----------+--------+-------|
+|        |       |          |        |       |
+
+** Test Coverage by Feature
+| Feature Area    | Planned | Executed | Pass | Fail | Blocked | Pass Rate |
+|-----------------+---------+----------+------+------+---------+-----------|
+| Add Artwork     |       6 |        0 |    0 |    0 |       0 | 0%        |
+| Edit Artwork    |       2 |        0 |    0 |    0 |       0 | 0%        |
+| Delete Artwork  |       2 |        0 |    0 |    0 |       0 | 0%        |
+| Filter/Search   |       3 |        0 |    0 |    0 |       0 | 0%        |
+| Export Database |       3 |        0 |    0 |    0 |       0 | 0%        |
+| Import Database |       3 |        0 |    0 |    0 |       0 | 0%        |
+| Undo/Redo       |       4 |        0 |    0 |    0 |       0 | 0%        |
+| PDF Export      |       4 |        0 |    0 |    0 |       0 | 0%        |
+|-----------------+---------+----------+------+------+---------+-----------|
+| TOTAL           |      27 |        0 |    0 |    0 |       0 | 0%        |
+
+** Observations & Recommendations
+
+
+** Risks & Issues
+
+
+** Sign-off
+- *Tester:* ${3:Edna}
+- *Date:* `(format-time-string "%Y-%m-%d")`
+- *Test Lead:* 
+- *Approved by:* 
+- *Comments:*

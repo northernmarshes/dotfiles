@@ -1,0 +1,26 @@
+# -*- mode: snippet -*-
+# name: Test Execution Stats Summary
+# key: tstats
+# group: testing
+# --
+
+** Summary
+
+#+TBLNAME: test-summary
+| Metric               | Value |
+|----------------------+--------|
+| Total tests         | 0      |
+| Passed               | 0      |
+| Failed               | 0      |
+| Blocked              | 0      |
+| Tests with bugs     | 0      |
+| Unique bugs         | 0      |
+| Pass rate [%]       | 0      |
+
+#+TBLFM: @2$2='(length (org-table-get-rows "Execution"))-2 \
+#+TBLFM: @3$2='(length (seq-filter (lambda (x) (string-match-p "\\(PASS\\|PASSED\\)" (nth 2 x))) (org-table-get-rows "Execution"))) \
+#+TBLFM: @4$2='(length (seq-filter (lambda (x) (string-match-p "\\(FAIL\\|Failed\\)" (nth 2 x))) (org-table-get-rows "Execution"))) \
+#+TBLFM: @5$2='(length (seq-filter (lambda (x) (string-match-p "BLOCKED" (nth 2 x))) (org-table-get-rows "Execution"))) \
+#+TBLFM: @6$2='(length (seq-filter (lambda (x) (let ((b (nth 3 x))) (and b (not (string= b "NONE"))))) (org-table-get-rows "Execution"))) \
+#+TBLFM: @7$2='(length (delete-dups (seq-filter (lambda (b) (and b (not (string= b "NONE")))) (mapcar (lambda (x) (nth 3 x)) (org-table-get-rows "Execution"))))) \
+#+TBLFM: @8$2='(if (> @2$2 0) (* 100 (/ (float @3$2) @2$2)) 0)

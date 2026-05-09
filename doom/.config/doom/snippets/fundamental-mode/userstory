@@ -1,0 +1,14 @@
+# -*- mode: snippet -*-
+# name: User Story (Org)
+# key: us
+# --
+* User Story: ${1:Title}
+:US:
+** As a ${2:Role}
+I want to ${3:Goal}
+So that ${4:Benefit}.
+** Acceptance Criteria
+- [ ] ${5:Criterion 1}
+** Notes
+- ${6:Note}
+$0

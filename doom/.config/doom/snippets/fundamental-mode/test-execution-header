@@ -1,0 +1,24 @@
+# -*- mode: snippet -*-
+# name: test-execution-header
+# key: teh
+# --
+
+* Test Execution – ${1:Run Name}
+
+:PROPERTIES:
+:ID: TE-${2:YYYYMMDD}-${3:SEQ}
+:Date: ${4:}
+:Tester: ${5:Your Name}
+:Build: ${6:Application Version}
+:Environment: ${7:OS / Browser / DB}
+:Scope: ${8:Smoke / Regression / Feature}
+:END:
+
+** Metadata:
+- ID: ${2:$(replace-regexp-in-string "^- " "" yas-text)}-${3:$(replace-regexp-in-string "^- " "" yas-text)}
+- Date: ${4:$(replace-regexp-in-string "^- " "" yas-text)}
+- Tester: ${5:$(replace-regexp-in-string "^- " "" yas-text)}
+- Build: ${6:$(replace-regexp-in-string "^- " "" yas-text)}
+- Environment: ${7:$(replace-regexp-in-string "^- " "" yas-text)}
+- Scope: ${8:$(replace-regexp-in-string "^- " "" yas-text)}
+
