@@ -11,12 +11,10 @@ EnumerateSkipFirst=False
 ModifierOnlyKeyTimeout=250
 
 [Hotkey/TriggerKeys]
-0=Multi_key
-1=Zenkaku_Hankaku
-2=Hangul
+0=Super+Tab
 
 [Hotkey/ActivateKeys]
-0=Hangul_Hanja
+0=Super+Caps_Lock
 
 [Hotkey/DeactivateKeys]
 0=Hangul_Romaja

@@ -55,6 +55,8 @@ exec swayidle -w \
 
   input type:keyboard {
       xkb_layout "pl"
+      # Turning off caps lock
+      # xkb_options "caps:none"
   }
 
 
@@ -242,14 +244,15 @@ client.focused_inactive #323C41 #323C41 #D3C6AA #323C41 #323C41
     # bindsym $mod+grave exec grim
     bindsym $mod+grave exec grim -g "$(slurp)" ~/screenshots/screenshot-$(date +%Y%m%d-%H%M%S).png
 
-# Japanese input
-exec --no-startup-id fcitx5 -d
 
 # Status Bar
 exec waybar
 
 # Nautilus USB
-exec dbus-update-activation-enviornment --all
+exec dbus-update-activation-environment --all
 
+# Japanese input
+# exec --no-startup-id fcitx5 -d
+exec fcitx5 -d
 
 include /etc/sway/config.d/*
