@@ -3,5 +3,5 @@ fish_variables
 
 # gimp
 gimp/.config/GIMP/*
-!gimp/.config/GIMP/shortcutsrc
+!gimp/.config/GIMP/3.2/shortcutsrc
 

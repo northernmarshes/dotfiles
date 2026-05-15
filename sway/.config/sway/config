@@ -91,8 +91,8 @@ exec swayidle -w \
     bindsym $mod+Alt+Space exec swaylock
 
     # Emacs
-    bindsym $mod+d exec emacs
-    bindsym $mod+Next exec emacs
+    bindsym $mod+d exec $term -e emacs
+    bindsym $mod+Next exec $term -e emacs
 
     # Neovim
     bindsym $mod+n exec $term -e nvim
