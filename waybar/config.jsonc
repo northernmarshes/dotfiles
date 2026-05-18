@@ -9,7 +9,7 @@
 
     "modules-left": ["custom/nix", "sway/workspaces", "sway/mode"],
     "modules-center": ["clock"],
-    "modules-right": ["clock#jp", "bluetooth", "pulseaudio", "network", "battery", "tray"],
+    "modules-right": ["custom/weather", "clock#jp", "bluetooth", "pulseaudio", "network", "battery", "tray"],
 
     "custom/nix": {
         "format": "",
@@ -40,6 +40,14 @@
         "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>"
     },
 
+    "custom/weather": {
+        "format": "{}",
+        "tooltip": true,
+        "interval": 3600,
+        "exec": "wttrbar --location Gdańsk",
+        "return-type": "json"
+    },
+
     "battery": {
         "states": {
             "good": 95,
@@ -59,7 +67,7 @@
 
     "network": {
         "format-wifi": "  {signalStrength}%",
-        "format-ethernet": "󰈀  {ipaddr}",
+        "format-ethernet": "󰈀 ",
         "format-disconnected": "󰖪  offline",
         "tooltip-format": "{essid} ({signalStrength}%) — {ipaddr}",
         "on-click": "ghostty -e impala"
