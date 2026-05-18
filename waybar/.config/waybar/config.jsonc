@@ -9,8 +9,7 @@
 
     "modules-left": ["custom/nix", "sway/workspaces", "sway/mode"],
     "modules-center": ["clock", ],
-    // "modules-right": ["bluetooth", "pulseaudio", "network", "battery", "tray"],
-    "modules-right": ["clock#jp", "pulseaudio", "network", "battery", "tray", ],
+    "modules-right": ["custom/weather", "clock#jp", "pulseaudio", "network", "battery", "tray", ],
 
     "custom/nix": {
         "format": "󰣇",
@@ -39,6 +38,14 @@
         "timezone": "Asia/Tokyo",
         "format-alt": "  {:%A, %d %B %Y}",
         "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>"
+    },
+
+    "custom/weather": {
+        "format": "{}",
+        "tooltip": true,
+        "interval": 3600,
+        "exec": "wttrbar --location Gdańsk",
+        "return-type": "json"
     },
 
     "battery": {
