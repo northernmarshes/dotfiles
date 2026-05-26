@@ -239,8 +239,11 @@ client.focused_inactive #323C41 #323C41 #D3C6AA #323C41 #323C41
     bindsym --locked XF86MonBrightnessUp exec brightnessctl set 5%+
     # Special key to take a screenshot with grim
     # bindsym Print exec grim
-    # bindsym $mod+grave exec grim
-    bindsym $mod+grave exec grim -g "$(slurp)" ~/screenshots/screenshot-$(date +%Y%m%d-%H%M%S).png
+    #
+    # Saved to clipboard and as a png
+    bindsym $mod+grave exec grim -g "$(slurp)" - | tee ~/screenshots/screenshot-$(date +%Y%m%d-%H%M%S).png | wl-copy
+    # Saved only to clipboard
+    bindsym $mod+shift+grave exec grim -g "$(slurp)" - | wl-copy
 
 # Japanese input
 exec --no-startup-id fcitx5 -d
