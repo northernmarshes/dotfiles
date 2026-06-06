@@ -46,3 +46,4 @@ function aur() {
     --color "pointer:red,marker:red" |
     xargs -ro yay -S
 }
+. ~/export-esp.sh
