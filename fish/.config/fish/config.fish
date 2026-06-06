@@ -27,6 +27,11 @@ function pkg
         | xargs -ro sudo pacman -S
 end
 
+# Key
+function key
+    command keychain --eval --quiet github_key | source
+end
+
 # AUR
 function aur
     yay -Slqa | fzf --multi --preview "yay -Sii {1}" \

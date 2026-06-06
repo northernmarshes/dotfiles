@@ -44,7 +44,8 @@
         "format": "{}",
         "tooltip": true,
         "interval": 3600,
-        "exec": "wttrbar --location Gdańsk",
+        // "exec": "wttrbar --location Gdansk",
+        "exec": "wttrbar",
         "return-type": "json"
     },
 
@@ -67,7 +68,8 @@
 
     "network": {
         "format-wifi": "  {signalStrength}%",
-        "format-ethernet": "󰈀  {ipaddr}",
+        // "format-ethernet": "󰈀  {ipaddr}",
+        "format-ethernet": "󰈀 ",
         "format-disconnected": "󰖪  offline",
         "tooltip-format": "{essid} ({signalStrength}%) — {ipaddr}",
         "on-click": "ghostty -e impala"
