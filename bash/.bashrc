@@ -7,6 +7,8 @@
 
 alias ls='ls --color=auto'
 alias grep='grep --color=auto'
+alias l='lazygit'
+alias n='nvim'
 PS1='[\u@\h \W]\$ '
 . "$HOME/.cargo/env"
 
