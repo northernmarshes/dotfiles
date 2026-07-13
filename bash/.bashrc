@@ -11,6 +11,7 @@ alias l='lazygit'
 alias n='nvim'
 PS1='[\u@\h \W]\$ '
 . "$HOME/.cargo/env"
+cd /home/edna/data/code
 
 # greetme
 function greetme() {
@@ -49,3 +50,5 @@ function aur() {
     xargs -ro yay -S
 }
 . ~/export-esp.sh
+export EDITOR=nvim
+# PATH=$PATH:

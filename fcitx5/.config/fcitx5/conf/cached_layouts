@@ -413,6 +413,11 @@ Description="Keyboard - Portugalski (Brazylia) - Portugalski (Brazylia, IBM/Leno
 Language=pt
 Label="br (thinkpad)"
 
+[keyboard-br-thinkpad_nodeadkeys]
+Description="Keyboard - Portugalski (Brazylia) - Portugalski (Brazylia, IBM/Lenovo ThinkPad, bez klawiszy akcentów)"
+Language=pt
+Label="br (thinkpad_nodeadkeys)"
+
 [keyboard-br-nativo-epo]
 Description="Keyboard - Portugalski (Brazylia) - Esperanto (Brazylia, Nativo)"
 Language=eo
@@ -528,6 +533,11 @@ Description="Keyboard - Polski - Polski (Colemak-DH ISO)"
 Language=pl
 Label="pl (colemak_dh)"
 
+[keyboard-pl-colemak_dh_ortho]
+Description="Keyboard - Polski - Polish (Colemak-DH Ortholinear)"
+Language=pl
+Label="pl (colemak_dh_ortho)"
+
 [keyboard-pl-sun_type6]
 Description="Keyboard - Polski - Polski (Sun Type 6/7)"
 Language=pl
@@ -544,7 +554,7 @@ Language=pl
 Label="pl (lefty)"
 
 [keyboard-pl-slaviature]
-Description="Keyboard - Polski - Polish (Slavistic Phonetic Alphabet)"
+Description="Keyboard - Polski - Polski (slawistyczny alfabet fonetyczny)"
 Language=pl
 Label="pl (slaviature)"
 
@@ -1482,6 +1492,11 @@ Label=my
 Description="Keyboard - Birmański - Birmański (Zawgyi)"
 Language=my
 Label="my-zwg (zawgyi)"
+
+[keyboard-mm-mara]
+Description="Keyboard - Birmański - Mara"
+Language=mrh
+Label="mrh (mara)"
 
 [keyboard-mm-mnw]
 Description="Keyboard - Birmański - Mon"
@@ -3507,6 +3522,11 @@ Label="ml (mal_enhanced)"
 Description="Keyboard - Indyjski - Malajalam (Poorna, rozszerzony InScript)"
 Language=ml
 Label="ml (mal_poorna)"
+
+[keyboard-in-mara]
+Description="Keyboard - Indyjski - Mara"
+Language=mrh
+Label="mrh (mara)"
 
 [keyboard-in-mni]
 Description="Keyboard - Indyjski - Manipuri (Meitei)"

@@ -40,14 +40,14 @@
         "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>"
     },
 
-    "custom/weather": {
-        "format": "{}",
-        "tooltip": true,
-        "interval": 3600,
-        // "exec": "wttrbar --location Gdansk",
-        "exec": "wttrbar",
-        "return-type": "json"
-    },
+    // "custom/weather": {
+    //     "format": "{}",
+    //     "tooltip": true,
+    //     "interval": 3600,
+    //     // "exec": "wttrbar --location Gdansk",
+    //     "exec": "wttrbar",
+    //     "return-type": "json"
+    // },
 
     "battery": {
         "states": {
