@@ -30,7 +30,7 @@ set $menu wofi
 
 
 # Default wallpaper (more resolutions are available in /run/current-system/sw/share/backgrounds/sway/)
-output * bg ~/walls/pexels-ekrulila-32416083.jpg fill
+output * bg ~/walls/22.jpg fill
 
 
 # output HDMI-A-1 resolution 1920x1080 position 1920,0
@@ -39,10 +39,10 @@ output * bg ~/walls/pexels-ekrulila-32416083.jpg fill
 
 # Idle configuration
 
-exec swayidle -w \
-         timeout 900 'swaylock -f -c 000000' \
-         timeout 1500 'swaymsg "output * power off"' resume 'swaymsg "output * power on"' \
-         before-sleep 'swaylock -f -c 000000'
+# exec swayidle -w \
+#          timeout 900 'swaylock -f -c 000000' \
+#          timeout 1500 'swaymsg "output * power off"' resume 'swaymsg "output * power on"' \
+#          before-sleep 'swaylock -f -c 000000'
 
 # Read `man 5 sway-input` for more information about this section.
 
