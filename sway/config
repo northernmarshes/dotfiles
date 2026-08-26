@@ -30,7 +30,7 @@ set $menu wofi
 
 
 # Default wallpaper (more resolutions are available in /run/current-system/sw/share/backgrounds/sway/)
-output * bg ~/walls/22.jpg fill
+output * bg ~/walls/23.jpg fill
 
 
 # output HDMI-A-1 resolution 1920x1080 position 1920,0

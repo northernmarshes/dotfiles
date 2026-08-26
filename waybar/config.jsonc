@@ -1,18 +1,20 @@
 {
     "layer": "top",
     "position": "top",
-    "height": 32,
-    "spacing": 4,
+    "height": 48,
+    "spacing": 8,
     "margin-top": 0,
     "margin-left": 0,
     "margin-right": 0,
 
     "modules-left": ["custom/nix", "sway/workspaces", "sway/mode"],
     "modules-center": ["clock"],
-    "modules-right": ["custom/weather", "clock#jp", "bluetooth", "pulseaudio", "network", "battery", "tray"],
+    // "modules-right": ["custom/weather", "clock#jp", "bluetooth", "pulseaudio", "network", "battery", "tray"],
+    "modules-right": ["clock#jp", "bluetooth", "pulseaudio", "network", "battery", "tray"],
 
     "custom/nix": {
-        "format": "",
+        // "format": "",
+        "format": "猿も木から落ちる",
         "tooltip": false,
         "on-click": "ghostty -e bash -c 'fastfetch; read'"
     },
@@ -40,13 +42,13 @@
         "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>"
     },
 
-    "custom/weather": {
-        "format": "{}",
-        "tooltip": true,
-        "interval": 3600,
-        "exec": "wttrbar --location Gdańsk",
-        "return-type": "json"
-    },
+    // "custom/weather": {
+    //     "format": "{}",
+    //     "tooltip": true,
+    //     "interval": 3600,
+    //     "exec": "wttrbar --location Gdańsk",
+    //     "return-type": "json"
+    // },
 
     "battery": {
         "states": {

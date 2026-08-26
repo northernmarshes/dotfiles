@@ -1,0 +1,147 @@
+* {
+  /* font-family: "JetBrains Mono", "Noto Sans Mono", monospace; */
+  font-family: "Noto Sans Mono", monospace;
+  font-size: 18px;
+  border: none;
+  border-radius: 0;
+  min-height: 0;
+}
+
+/* Everforest palette:
+   bg:       #2B3339
+   bg1:      #323C41
+   bg3:      #3D484D
+   fg:       #D3C6AA
+   green:    #A7C080
+   blue:     #7FBBB3
+   yellow:   #DBBC7F
+   orange:   #E69875
+   red:      #E67E80
+   purple:   #D699B6
+   aqua:     #83C092
+*/
+
+window#waybar {
+  background-color: rgba(43, 43, 43, 1);
+  color: #d3c6aa;
+  /* border-radius: 10px; */
+  border: 1px solid #3d484d;
+}
+
+.modules-left,
+.modules-center,
+.modules-right {
+  padding: 0 4px;
+}
+
+/* Base module style */
+#custom-nix,
+#workspaces,
+#mode,
+#clock,
+#battery,
+#network,
+#pulseaudio,
+#tray {
+  padding: 2px 10px;
+  color: #d3c6aa;
+  background-color: transparent;
+  border-radius: 0px;
+  transition: all 0.2s ease;
+}
+
+#custom-nix {
+  color: #7fbbb3;
+  font-size: 16px;
+  padding: 2px 8px 2px 12px;
+}
+
+#workspaces button {
+  padding: 2px 8px;
+  color: #859289;
+  background-color: transparent;
+  border-radius: 6px;
+  transition: all 0.15s ease;
+}
+
+#workspaces button:hover {
+  background-color: #3d484d;
+  color: #d3c6aa;
+}
+
+#workspaces button.focused {
+  background-color: #3d484d;
+  color: #a7c080;
+}
+
+#workspaces button.urgent {
+  background-color: #4c3743;
+  color: #e67e80;
+}
+
+#mode {
+  background-color: #3d484d;
+  color: #dbbc7f;
+  font-style: italic;
+}
+
+#clock {
+  color: #d3c6aa;
+  font-weight: 600;
+}
+
+#battery {
+  color: #a7c080;
+}
+
+#battery.warning {
+  color: #dbbc7f;
+}
+
+#battery.critical {
+  color: #e67e80;
+  animation: blink 1s step-start infinite;
+}
+
+#battery.charging {
+  color: #83c092;
+}
+
+@keyframes blink {
+  50% {
+    opacity: 0.5;
+  }
+}
+
+/* Network */
+#network {
+  color: #7fbbb3;
+}
+
+#network.disconnected {
+  color: #859289;
+}
+
+/* Pulseaudio */
+#pulseaudio {
+  color: #d699b6;
+}
+
+#pulseaudio.muted {
+  color: #859289;
+}
+
+/* Tray */
+#tray {
+  padding: 2px 8px;
+}
+
+#tray > .passive {
+  -gtk-icon-effect: dim;
+}
+
+#tray > .needs-attention {
+  -gtk-icon-effect: highlight;
+  background-color: #4c3743;
+  border-radius: 6px;
+}
