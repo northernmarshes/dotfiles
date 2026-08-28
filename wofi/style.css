@@ -53,10 +53,11 @@ window {
 
 #entry:selected {
   /* background-color: #3d484d; */
-  background-color: #5b5b5b;
+  /* background-color: #5b5b5b; */
+  background-color: #c1b744;
 }
 
 #entry:selected #text {
   /* color: #a7c080; */
-  color: #c4c4c4;
+  color: #000000;
 }
