@@ -9,7 +9,8 @@
 
     "modules-left": ["custom/nix", "sway/workspaces", "sway/mode"],
     "modules-center": ["clock", ],
-    "modules-right": ["custom/weather", "clock#jp", "pulseaudio", "network", "battery", "tray", ],
+    // "modules-right": ["custom/weather", "clock#jp", "pulseaudio", "network", "battery", "tray", ],
+    "modules-right": ["clock#jp", "bluetooth", "pulseaudio", "network", "tray", ],
 
     "custom/nix": {
         "format": "󰣇",
@@ -49,22 +50,22 @@
     //     "return-type": "json"
     // },
 
-    "battery": {
-        "states": {
-            "good": 95,
-            "warning": 30,
-            "critical": 15
-        },
-        "format": "{icon}  {capacity}%",
-        "format-charging": "󰂄  {capacity}%",
-        "format-plugged": "󰁹  {capacity}%",
-        "format-icons": ["", "", "", "", ""]
-    },
-
-    // "bluetooth": {
-    //   "format": "󰂯",
-    //   "on-click": "ghostty -e bluetui"
+    // "battery": {
+    //     "states": {
+    //         "good": 95,
+    //         "warning": 30,
+    //         "critical": 15
+    //     },
+    //     "format": "{icon}  {capacity}%",
+    //     "format-charging": "󰂄  {capacity}%",
+    //     "format-plugged": "󰁹  {capacity}%",
+    //     "format-icons": ["", "", "", "", ""]
     // },
+
+    "bluetooth": {
+      "format": "󰂯",
+      "on-click": "ghostty -e bluetui"
+    },
 
     "network": {
         "format-wifi": "  {signalStrength}%",

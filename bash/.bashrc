@@ -49,6 +49,13 @@ function aur() {
     --color "pointer:red,marker:red" |
     xargs -ro yay -S
 }
+
+# function r() {
+#   cd /home/edna/data/code/ratadot/
+#   cargo run --release
+# }
+#
 . ~/export-esp.sh
 export EDITOR=nvim
-# PATH=$PATH:
+PATH=$PATH:
+export DISPLAY=:0.0
