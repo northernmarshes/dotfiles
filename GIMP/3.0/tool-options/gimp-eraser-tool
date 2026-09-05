@@ -1,0 +1,14 @@
+# GIMP gimp-eraser-tool options
+
+(foreground
+    (color "R'G'B'A float" 16 "\0\0\200\77\0\0\200\77\0\0\200\77\0\0\200\77" 0))
+(background
+    (color "R'G'B'A float" 16 "\0\0\0\0\0\0\0\0\0\0\0\0\0\0\200\77" 0))
+(brush "2. Hardness 100")
+(dynamics "Pressure Size")
+(palette "Historia kolorów")
+(brush-size 69)
+(brush-force 1)
+(dynamics-enabled no)
+
+# end of gimp-eraser-tool options
