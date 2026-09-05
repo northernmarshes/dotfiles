@@ -13,7 +13,8 @@
     "modules-right": ["clock#jp", "bluetooth", "pulseaudio", "network", "tray", ],
 
     "custom/nix": {
-        "format": "󰣇",
+        // "format": "󰣇",
+        "format": "猿も木から落ちる",
         "tooltip": false,
         "on-click": "ghostty -e bash -c 'fastfetch; read'"
     },

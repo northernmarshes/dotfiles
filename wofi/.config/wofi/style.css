@@ -1,24 +1,29 @@
 * {
-  font-family: "0xProto Nerd Font";
+  font-family: "Roboto";
   font-size: 22px;
 }
 
 window {
-  background-color: #2b3339;
-  border: 5px solid #3d484d;
+  /* background-color: #2b3339; */
+  background-color: #303030;
+  border: 0px solid #3d484d;
 }
 
 #input {
-  background-color: #323c41;
-  color: #d3c6aa;
-  border: 1px solid #3d484d;
+  /* background-color: #323c41; */
+  background-color: #303030;
+  /* color: #d3c6aa; */
+  color: #c4c4c4;
+  /* border: 1px solid #3d484d; */
+  border: 1px solid #303030;
   border-radius: 2px;
   padding: 8px 12px;
   margin: 8px;
 }
 
 #input:focus {
-  border-color: #a7c080;
+  /* border-color: #a7c080; */
+  background-color: #303030;
 }
 
 #inner-box {
@@ -35,7 +40,8 @@ window {
 }
 
 #text {
-  color: #d3c6aa;
+  /* color: #d3c6aa; */
+  color: #c4c4c4;
   padding: 2px 8px;
 }
 
@@ -46,9 +52,12 @@ window {
 }
 
 #entry:selected {
-  background-color: #3d484d;
+  /* background-color: #3d484d; */
+  /* background-color: #5b5b5b; */
+  background-color: #c1b744;
 }
 
 #entry:selected #text {
-  color: #a7c080;
+  /* color: #a7c080; */
+  color: #000000;
 }

@@ -1,8 +1,8 @@
-width=800
+width=600
 height=600
 location=center
 show=drun
-prompt= 攻殻機動隊
+prompt=可愛い子には旅をさせよ
 allow_markup=true
 insensitive=true
 gtk_dark=true
