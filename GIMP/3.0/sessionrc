@@ -124,6 +124,10 @@
     (factory-entry "gimp-operation-tool-dialog")
     (position 26 23)
     (monitor 0))
+(session-info "toplevel"
+    (factory-entry "gimp-toolbox-color-dialog")
+    (position 26 23)
+    (monitor 0))
 
 (hide-docks no)
 (single-window-mode yes)

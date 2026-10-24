@@ -9,7 +9,7 @@
 (pattern "Pine")
 (gradient "Niestandardowe")
 (palette "Historia kolorów")
-(brush-size 69)
+(brush-size 62)
 (brush-force 1)
 (dynamics-enabled no)
 

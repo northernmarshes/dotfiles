@@ -7,7 +7,7 @@
 (brush "2. Hardness 100")
 (dynamics "Pressure Size")
 (palette "Historia kolorów")
-(brush-size 69)
+(brush-size 62)
 (brush-force 1)
 (dynamics-enabled no)
 

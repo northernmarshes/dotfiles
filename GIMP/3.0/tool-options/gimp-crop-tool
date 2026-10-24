@@ -1,7 +1,8 @@
 # GIMP gimp-crop-tool options
 
-(aspect-denominator 5701)
-(aspect-numerator 3954)
+(aspect-denominator 7)
+(aspect-numerator 5)
+(overridden-fixed-aspect yes)
 (foreground
     (color "R'G'B'A float" 16 "\0\0\200\77\0\0\200\77\0\0\200\77\0\0\200\77" 0))
 (background

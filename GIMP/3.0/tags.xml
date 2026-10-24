@@ -1177,127 +1177,127 @@
   <resource identifier="external:${gimp_data_dir}/gradients/Yellow_Orange.ggr//Yellow Orange" checksum="c7f332150f1c1d8cb8100add34b0ef55">
   </resource>
 
-  <resource identifier="internal:gimp-palette-color-history//Historia kolorów" checksum="c3ce62712d09bb26b4527eaccfa01097">
+  <resource identifier="internal:gimp-palette-color-history//Historia kolorów" checksum="f5cd1a2fbdfdd98c44896d304a2823ab">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Bears.gpl//Bears" checksum="339fa43230c7d0687ec95ecdc84bbd97">
+  <resource identifier="external:${gimp_data_dir}/palettes/Bears.gpl//Bears" checksum="3e2d51f2fd167988e43a0895bb8afa44">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Bgold.gpl//Bgold" checksum="a37c764176875b45815ec04623ace24e">
+  <resource identifier="external:${gimp_data_dir}/palettes/Bgold.gpl//Bgold" checksum="6cc59f90a0996b244cb1c55de9899107">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Blues.gpl//Blues" checksum="2e31493754dede72d0ab7d232c019d97">
+  <resource identifier="external:${gimp_data_dir}/palettes/Blues.gpl//Blues" checksum="2e6aa28bf9175dd55c87c6d9300b1ffe">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Borders.gpl//Borders" checksum="7471ada1a4b3ff3f701890dd20624b16">
+  <resource identifier="external:${gimp_data_dir}/palettes/Borders.gpl//Borders" checksum="aa468bf5c9e87ac91753440a7486863e">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Browns_And_Yellows.gpl//Browns And Yellows" checksum="7ffd5d794b76ada6393795ed88106e1c">
+  <resource identifier="external:${gimp_data_dir}/palettes/Browns_And_Yellows.gpl//Browns And Yellows" checksum="08ee212f5acc12e48ee2410c279ea7cc">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Caramel.gpl//Caramel" checksum="fab1032e0c14064023ab84480425a4f4">
+  <resource identifier="external:${gimp_data_dir}/palettes/Caramel.gpl//Caramel" checksum="8afed6c3ab4b6955c7684d337232b701">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Cascade.gpl//Cascade" checksum="bdf8da88acc37707978e0914788bb40d">
+  <resource identifier="external:${gimp_data_dir}/palettes/Cascade.gpl//Cascade" checksum="1b62db61b9a95c71c561c9c53ca08f07">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/China.gpl//China" checksum="c44f7fa587c9c9f830a93dfa795d69a1">
+  <resource identifier="external:${gimp_data_dir}/palettes/China.gpl//China" checksum="b172a7dc86a7e19d4f11272620bc4da3">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Coldfire.gpl//Coldfire" checksum="fba26432d30f41120e6fc091149ba2b0">
+  <resource identifier="external:${gimp_data_dir}/palettes/Coldfire.gpl//Coldfire" checksum="91e418e55ae83e8fad65a43ca7cea5c2">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Cool_Colors.gpl//Cool Colors" checksum="f4e94b43f63a99efad7e432520a9e0f9">
+  <resource identifier="external:${gimp_data_dir}/palettes/Cool_Colors.gpl//Cool Colors" checksum="c24f60fbc38b98594707696587bc16c9">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Cranes.gpl//Cranes" checksum="fe027a77dbcea4d071bfd34ff04d027f">
+  <resource identifier="external:${gimp_data_dir}/palettes/Cranes.gpl//Cranes" checksum="e3623837d321b2456a4b5d97793af8cd">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Dark_pastels.gpl//Dark pastels" checksum="fc1a1b4c4ca7c410626fc29e5fb69f26">
+  <resource identifier="external:${gimp_data_dir}/palettes/Dark_pastels.gpl//Dark pastels" checksum="713ab6d4ec706193efca0454af24be4b">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Default.gpl//Default" checksum="51a870d6a15e3a1f76ef7118a8f06471">
+  <resource identifier="external:${gimp_data_dir}/palettes/Default.gpl//Default" checksum="48909df06be9f6b55f97fa51ec513d6f">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Ega.gpl//Ega" checksum="6274ee7c089d12c813a5fae73607a7fa">
+  <resource identifier="external:${gimp_data_dir}/palettes/Ega.gpl//Ega" checksum="fbae5419b2de169b142bca500ce3c37a">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Firecode.gpl//Firecode" checksum="8633a5127f6740bb488a18cc265b2f0f">
+  <resource identifier="external:${gimp_data_dir}/palettes/Firecode.gpl//Firecode" checksum="fef4dd1fd038298596cf994bd2dcaa74">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Gold.gpl//Gold" checksum="5cfe93510b8badccbe458c3bce2434d8">
+  <resource identifier="external:${gimp_data_dir}/palettes/Gold.gpl//Gold" checksum="f6bf8d81db2026b2eeaef8c7d8727d24">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Grayblue.gpl//Grayblue" checksum="fc2a3f7d9ea9dc0c46d57a5f3b0efa5a">
+  <resource identifier="external:${gimp_data_dir}/palettes/Grayblue.gpl//Grayblue" checksum="e52d2834a17177176357e2b94938b786">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Grays.gpl//Grays" checksum="5345f5f9e8ec3417d9c71236527137f4">
+  <resource identifier="external:${gimp_data_dir}/palettes/Grays.gpl//Grays" checksum="cca165f932934edfe4e8e57884c4742a">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/GrayViolet.gpl//GrayViolet" checksum="ccadc2b5b42a2ae13c4ea9d1d12bcd75">
+  <resource identifier="external:${gimp_data_dir}/palettes/GrayViolet.gpl//GrayViolet" checksum="a73de8d061aa06b5dfbd0ceab70dba04">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Greens.gpl//Greens" checksum="28f9b7842825d299a5e14b5698a5a10c">
+  <resource identifier="external:${gimp_data_dir}/palettes/Greens.gpl//Greens" checksum="f44d1d9ed43723d8d616084a482607c8">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Hilite.gpl//Hilite" checksum="9269a8be112b2ddb7a4db619f72982bd">
+  <resource identifier="external:${gimp_data_dir}/palettes/Hilite.gpl//Hilite" checksum="75ff5b7b5df668c744e3b3dd0ba366de">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Khaki.gpl//Khaki" checksum="f182751d9760ed0ce576946eaab32f20">
+  <resource identifier="external:${gimp_data_dir}/palettes/Khaki.gpl//Khaki" checksum="6198f6317b7114832f3c02a7fc17dcf2">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Lights.gpl//Lights" checksum="329cef223ba84eba0822a5934e7c7589">
+  <resource identifier="external:${gimp_data_dir}/palettes/Lights.gpl//Lights" checksum="62ea468044167cf7ec587cb2ba6917f9">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Muted.gpl//Muted" checksum="947639a48760496b06506f02dc4d69df">
+  <resource identifier="external:${gimp_data_dir}/palettes/Muted.gpl//Muted" checksum="ca73834cf0c0c34b98b64157c2e88f7d">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Named_Colors.gpl//Named Colors" checksum="0bde9f5b16979447c12a3f743e90a3a8">
+  <resource identifier="external:${gimp_data_dir}/palettes/Named_Colors.gpl//Named Colors" checksum="7087ff581d3918f2cbb1bf62d238cee5">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/News3.gpl//News3" checksum="7142fb1c962ec0e4756f1721183b7d9b">
+  <resource identifier="external:${gimp_data_dir}/palettes/News3.gpl//News3" checksum="9bc0010b63e64fd7b1b27dd90cc44163">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Op2.gpl//Op2" checksum="07378e95751da4e0ea12d7bb6c74d598">
+  <resource identifier="external:${gimp_data_dir}/palettes/Op2.gpl//Op2" checksum="3a167fcd0f177992d1d78a9c1c5ae599">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Paintjet.gpl//Paintjet" checksum="d489ba68df51d91f3bc4cccbff303702">
+  <resource identifier="external:${gimp_data_dir}/palettes/Paintjet.gpl//Paintjet" checksum="5e57a774bd63423fe181a47f96c37321">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Pastels.gpl//Pastels" checksum="bed008423fe9409cc85d50c82c04123f">
+  <resource identifier="external:${gimp_data_dir}/palettes/Pastels.gpl//Pastels" checksum="ec8f1b30fb21fa49c8de7abe2937ed80">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Plasma.gpl//Plasma" checksum="55c2db082a5cf662b58716a7cb32e9f2">
+  <resource identifier="external:${gimp_data_dir}/palettes/Plasma.gpl//Plasma" checksum="c4ffb52734ededce28782e97f9531695">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Reds.gpl//Reds" checksum="6d2cd84cd89302ff41f5c8040a550b9b">
+  <resource identifier="external:${gimp_data_dir}/palettes/Reds.gpl//Reds" checksum="cad7c9d973e3f307fdfa6627ae18358f">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Reds_And_Purples.gpl//Reds And Purples" checksum="46bbf81c19d5c9256083c549910e0869">
+  <resource identifier="external:${gimp_data_dir}/palettes/Reds_And_Purples.gpl//Reds And Purples" checksum="ce0510a7578a5833a7ad2fce869a620e">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Royal.gpl//Royal" checksum="c641106759d3de3813e75dd8d97595b7">
+  <resource identifier="external:${gimp_data_dir}/palettes/Royal.gpl//Royal" checksum="e93175683187af6cb76cc83c761ab8c1">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Tango.gpl//Tango Icon Theme" checksum="c310dd012b3ba3b949d4cd90e889a9b4">
+  <resource identifier="external:${gimp_data_dir}/palettes/Tango.gpl//Tango Icon Theme" checksum="cff24a0875a102deadeb9c67e695a2ed">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Topographic.gpl//Topographic" checksum="ced7c21a1df2d97a93ed992236130381">
+  <resource identifier="external:${gimp_data_dir}/palettes/Topographic.gpl//Topographic" checksum="45951186059f71bcbb8012f2340b3694">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Visibone.gpl//Visibone" checksum="e613ef34e3328044fadcedea31ebdc82">
+  <resource identifier="external:${gimp_data_dir}/palettes/Visibone.gpl//Visibone" checksum="412770542d2f56903363cbe9f770ebf1">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Visibone_2.gpl//Visibone 2" checksum="031db3e62464e39c8bb678074548891c">
+  <resource identifier="external:${gimp_data_dir}/palettes/Visibone_2.gpl//Visibone 2" checksum="ba42ee748bfe3290086e27b673fe28b6">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Volcano.gpl//Volcano" checksum="63651094cd4c2d3f18d53e3d4f1069e1">
+  <resource identifier="external:${gimp_data_dir}/palettes/Volcano.gpl//Volcano" checksum="119728ffe2b63dd75ce4a74eb7e24c8e">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Warm_Colors.gpl//Warm Colors" checksum="8ba947218dc49a2d14886e43bdfc0f6b">
+  <resource identifier="external:${gimp_data_dir}/palettes/Warm_Colors.gpl//Warm Colors" checksum="4ee68caf4ca40c9326f31f799faac214">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Web.gpl//Web" checksum="7048f816855f4e6c2ecf408af2a0a767">
+  <resource identifier="external:${gimp_data_dir}/palettes/Web.gpl//Web" checksum="1edc9ae8941d1a074e2d6ad0bd9f116e">
   </resource>
 
   <resource identifier="internal:gimp-font-standard-alias: Monospace//Monospace" checksum="(null)">
@@ -1457,6 +1457,828 @@
   </resource>
 
   <resource identifier="external:/nix/store/bk26wrpzag95742rr4zy5k6xf14ky87d-freefont-ttf-20120503/share/fonts/truetype/FreeSerifBold.ttf//FreeSerif Pogrubiony" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexMath-Regular.ttf//IBM Plex Math Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexMath-Regular.otf//IBM Plex Math Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexMono-Bold.ttf//IBM Plex Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexMono-Bold.otf//IBM Plex Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexMono-BoldItalic.ttf//IBM Plex Mono Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexMono-BoldItalic.otf//IBM Plex Mono Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexMono-ExtraLight.otf//IBM Plex Mono ExtraLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexMono-ExtraLight.ttf//IBM Plex Mono ExtraLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexMono-ExtraLightItalic.ttf//IBM Plex Mono ExtraLight Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexMono-ExtraLightItalic.otf//IBM Plex Mono ExtraLight Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexMono-Italic.otf//IBM Plex Mono Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexMono-Italic.ttf//IBM Plex Mono Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexMono-Light.ttf//IBM Plex Mono Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexMono-Light.otf//IBM Plex Mono Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexMono-LightItalic.otf//IBM Plex Mono Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexMono-LightItalic.ttf//IBM Plex Mono Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexMono-Medium.otf//IBM Plex Mono Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexMono-Medium.ttf//IBM Plex Mono Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexMono-MediumItalic.ttf//IBM Plex Mono Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexMono-MediumItalic.otf//IBM Plex Mono Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexMono-Regular.otf//IBM Plex Mono Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexMono-Regular.ttf//IBM Plex Mono Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexMono-SemiBold.ttf//IBM Plex Mono SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexMono-SemiBold.otf//IBM Plex Mono SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexMono-SemiBoldItalic.ttf//IBM Plex Mono SemiBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexMono-SemiBoldItalic.otf//IBM Plex Mono SemiBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexMono-Text.otf//IBM Plex Mono Text" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexMono-Text.ttf//IBM Plex Mono Text" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexMono-TextItalic.ttf//IBM Plex Mono Text Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexMono-TextItalic.otf//IBM Plex Mono Text Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexMono-Thin.otf//IBM Plex Mono Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexMono-Thin.ttf//IBM Plex Mono Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexMono-ThinItalic.otf//IBM Plex Mono Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexMono-ThinItalic.ttf//IBM Plex Mono Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansArabic-Bold.ttf//IBM Plex Sans Arabic Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansArabic-Bold.otf//IBM Plex Sans Arabic Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansArabic-ExtraLight.otf//IBM Plex Sans Arabic ExtraLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansArabic-ExtraLight.ttf//IBM Plex Sans Arabic ExtraLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansArabic-Light.otf//IBM Plex Sans Arabic Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansArabic-Light.ttf//IBM Plex Sans Arabic Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansArabic-Medium.ttf//IBM Plex Sans Arabic Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansArabic-Medium.otf//IBM Plex Sans Arabic Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansArabic-Regular.ttf//IBM Plex Sans Arabic Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansArabic-Regular.otf//IBM Plex Sans Arabic Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansArabic-SemiBold.otf//IBM Plex Sans Arabic SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansArabic-SemiBold.ttf//IBM Plex Sans Arabic SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansArabic-Text.ttf//IBM Plex Sans Arabic Text" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansArabic-Text.otf//IBM Plex Sans Arabic Text" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansArabic-Thin.otf//IBM Plex Sans Arabic Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansArabic-Thin.ttf//IBM Plex Sans Arabic Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSans-Bold.ttf//IBM Plex Sans Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSans-Bold.otf//IBM Plex Sans Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSans-BoldItalic.otf//IBM Plex Sans Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSans-BoldItalic.ttf//IBM Plex Sans Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansCondensed-Bold.otf//IBM Plex Sans Condensed Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansCondensed-Bold.ttf//IBM Plex Sans Condensed Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansCondensed-BoldItalic.otf//IBM Plex Sans Condensed Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansCondensed-BoldItalic.ttf//IBM Plex Sans Condensed Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansCondensed-ExtraLight.otf//IBM Plex Sans Condensed ExtraLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansCondensed-ExtraLight.ttf//IBM Plex Sans Condensed ExtraLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansCondensed-ExtraLightItalic.otf//IBM Plex Sans Condensed ExtraLight Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansCondensed-ExtraLightItalic.ttf//IBM Plex Sans Condensed ExtraLight Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansCondensed-Italic.otf//IBM Plex Sans Condensed Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansCondensed-Italic.ttf//IBM Plex Sans Condensed Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansCondensed-Light.otf//IBM Plex Sans Condensed Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansCondensed-Light.ttf//IBM Plex Sans Condensed Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansCondensed-LightItalic.ttf//IBM Plex Sans Condensed Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansCondensed-LightItalic.otf//IBM Plex Sans Condensed Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansCondensed-Medium.ttf//IBM Plex Sans Condensed Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansCondensed-Medium.otf//IBM Plex Sans Condensed Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansCondensed-MediumItalic.otf//IBM Plex Sans Condensed Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansCondensed-MediumItalic.ttf//IBM Plex Sans Condensed Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansCondensed-Regular.otf//IBM Plex Sans Condensed Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansCondensed-Regular.ttf//IBM Plex Sans Condensed Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansCondensed-SemiBold.ttf//IBM Plex Sans Condensed SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansCondensed-SemiBold.otf//IBM Plex Sans Condensed SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansCondensed-SemiBoldItalic.ttf//IBM Plex Sans Condensed SemiBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansCondensed-SemiBoldItalic.otf//IBM Plex Sans Condensed SemiBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansCondensed-Text.otf//IBM Plex Sans Condensed Text" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansCondensed-Text.ttf//IBM Plex Sans Condensed Text" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansCondensed-TextItalic.ttf//IBM Plex Sans Condensed Text Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansCondensed-TextItalic.otf//IBM Plex Sans Condensed Text Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansCondensed-Thin.ttf//IBM Plex Sans Condensed Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansCondensed-Thin.otf//IBM Plex Sans Condensed Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansCondensed-ThinItalic.otf//IBM Plex Sans Condensed Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansCondensed-ThinItalic.ttf//IBM Plex Sans Condensed Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansDevanagari-Bold.ttf//IBM Plex Sans Devanagari Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansDevanagari-Bold.otf//IBM Plex Sans Devanagari Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansDevanagari-ExtraLight.ttf//IBM Plex Sans Devanagari ExtraLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansDevanagari-ExtraLight.otf//IBM Plex Sans Devanagari ExtraLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansDevanagari-Light.ttf//IBM Plex Sans Devanagari Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansDevanagari-Light.otf//IBM Plex Sans Devanagari Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansDevanagari-Medium.ttf//IBM Plex Sans Devanagari Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansDevanagari-Medium.otf//IBM Plex Sans Devanagari Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansDevanagari-Regular.otf//IBM Plex Sans Devanagari Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansDevanagari-Regular.ttf//IBM Plex Sans Devanagari Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansDevanagari-SemiBold.ttf//IBM Plex Sans Devanagari SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansDevanagari-SemiBold.otf//IBM Plex Sans Devanagari SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansDevanagari-Text.otf//IBM Plex Sans Devanagari Text" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansDevanagari-Text.ttf//IBM Plex Sans Devanagari Text" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansDevanagari-Thin.ttf//IBM Plex Sans Devanagari Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansDevanagari-Thin.otf//IBM Plex Sans Devanagari Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSans-ExtraLight.ttf//IBM Plex Sans ExtraLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSans-ExtraLight.otf//IBM Plex Sans ExtraLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSans-ExtraLightItalic.otf//IBM Plex Sans ExtraLight Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSans-ExtraLightItalic.ttf//IBM Plex Sans ExtraLight Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansHebrew-Bold.ttf//IBM Plex Sans Hebrew Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansHebrew-Bold.otf//IBM Plex Sans Hebrew Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansHebrew-ExtraLight.ttf//IBM Plex Sans Hebrew ExtraLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansHebrew-ExtraLight.otf//IBM Plex Sans Hebrew ExtraLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansHebrew-Light.otf//IBM Plex Sans Hebrew Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansHebrew-Light.ttf//IBM Plex Sans Hebrew Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansHebrew-Medium.ttf//IBM Plex Sans Hebrew Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansHebrew-Medium.otf//IBM Plex Sans Hebrew Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansHebrew-Regular.otf//IBM Plex Sans Hebrew Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansHebrew-Regular.ttf//IBM Plex Sans Hebrew Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansHebrew-SemiBold.ttf//IBM Plex Sans Hebrew SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansHebrew-SemiBold.otf//IBM Plex Sans Hebrew SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansHebrew-Text.otf//IBM Plex Sans Hebrew Text" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansHebrew-Text.ttf//IBM Plex Sans Hebrew Text" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansHebrew-Thin.otf//IBM Plex Sans Hebrew Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansHebrew-Thin.ttf//IBM Plex Sans Hebrew Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSans-Italic.otf//IBM Plex Sans Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSans-Italic.ttf//IBM Plex Sans Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansJP-Bold.ttf//IBM Plex Sans JP Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansJP-Bold.otf//IBM Plex Sans JP Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansJP-ExtraLight.otf//IBM Plex Sans JP ExtraLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansJP-ExtraLight.ttf//IBM Plex Sans JP ExtraLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansJP-Light.otf//IBM Plex Sans JP Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansJP-Light.ttf//IBM Plex Sans JP Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansJP-Medium.otf//IBM Plex Sans JP Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansJP-Medium.ttf//IBM Plex Sans JP Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansJP-Regular.ttf//IBM Plex Sans JP Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansJP-Regular.otf//IBM Plex Sans JP Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansJP-SemiBold.otf//IBM Plex Sans JP SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansJP-SemiBold.ttf//IBM Plex Sans JP SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansJP-Text.ttf//IBM Plex Sans JP Text" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansJP-Text.otf//IBM Plex Sans JP Text" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansJP-Thin.otf//IBM Plex Sans JP Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansJP-Thin.ttf//IBM Plex Sans JP Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansKR-Bold.otf//IBM Plex Sans KR Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansKR-Bold.ttf//IBM Plex Sans KR Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansKR-ExtraLight.otf//IBM Plex Sans KR ExtraLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansKR-ExtraLight.ttf//IBM Plex Sans KR ExtraLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansKR-Light.otf//IBM Plex Sans KR Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansKR-Light.ttf//IBM Plex Sans KR Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansKR-Medium.ttf//IBM Plex Sans KR Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansKR-Medium.otf//IBM Plex Sans KR Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansKR-Regular.ttf//IBM Plex Sans KR Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansKR-Regular.otf//IBM Plex Sans KR Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansKR-SemiBold.otf//IBM Plex Sans KR SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansKR-SemiBold.ttf//IBM Plex Sans KR SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansKR-Text.ttf//IBM Plex Sans KR Text" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansKR-Text.otf//IBM Plex Sans KR Text" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansKR-Thin.otf//IBM Plex Sans KR Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansKR-Thin.ttf//IBM Plex Sans KR Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSans-Light.otf//IBM Plex Sans Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSans-Light.ttf//IBM Plex Sans Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSans-LightItalic.ttf//IBM Plex Sans Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSans-LightItalic.otf//IBM Plex Sans Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSans-Medium.ttf//IBM Plex Sans Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSans-Medium.otf//IBM Plex Sans Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSans-MediumItalic.otf//IBM Plex Sans Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSans-MediumItalic.ttf//IBM Plex Sans Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSans-Regular.otf//IBM Plex Sans Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSans-Regular.ttf//IBM Plex Sans Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansSC-Bold.otf//IBM Plex Sans SC Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansSC-Bold.ttf//IBM Plex Sans SC Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansSC-ExtraLight.otf//IBM Plex Sans SC ExtraLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansSC-ExtraLight.ttf//IBM Plex Sans SC ExtraLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansSC-Light.ttf//IBM Plex Sans SC Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansSC-Light.otf//IBM Plex Sans SC Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansSC-Medium.ttf//IBM Plex Sans SC Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansSC-Medium.otf//IBM Plex Sans SC Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansSC-Regular.otf//IBM Plex Sans SC Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansSC-Regular.ttf//IBM Plex Sans SC Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansSC-SemiBold.otf//IBM Plex Sans SC SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansSC-SemiBold.ttf//IBM Plex Sans SC SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansSC-Text.ttf//IBM Plex Sans SC Text" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansSC-Text.otf//IBM Plex Sans SC Text" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansSC-Thin.ttf//IBM Plex Sans SC Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansSC-Thin.otf//IBM Plex Sans SC Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSans-SemiBold.ttf//IBM Plex Sans SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSans-SemiBold.otf//IBM Plex Sans SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSans-SemiBoldItalic.ttf//IBM Plex Sans SemiBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSans-SemiBoldItalic.otf//IBM Plex Sans SemiBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansTC-Bold.ttf//IBM Plex Sans TC Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansTC-Bold.otf//IBM Plex Sans TC Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansTC-ExtraLight.otf//IBM Plex Sans TC ExtraLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansTC-ExtraLight.ttf//IBM Plex Sans TC ExtraLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansTC-Light.otf//IBM Plex Sans TC Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansTC-Light.ttf//IBM Plex Sans TC Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansTC-Medium.ttf//IBM Plex Sans TC Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansTC-Medium.otf//IBM Plex Sans TC Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansTC-Regular.otf//IBM Plex Sans TC Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansTC-Regular.ttf//IBM Plex Sans TC Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansTC-SemiBold.otf//IBM Plex Sans TC SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansTC-SemiBold.ttf//IBM Plex Sans TC SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansTC-Text.ttf//IBM Plex Sans TC Text" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansTC-Text.otf//IBM Plex Sans TC Text" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansTC-Thin.otf//IBM Plex Sans TC Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansTC-Thin.ttf//IBM Plex Sans TC Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSans-Text.otf//IBM Plex Sans Text" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSans-Text.ttf//IBM Plex Sans Text" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSans-TextItalic.ttf//IBM Plex Sans Text Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSans-TextItalic.otf//IBM Plex Sans Text Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansThai-Bold.ttf//IBM Plex Sans Thai Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansThai-Bold.otf//IBM Plex Sans Thai Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansThai-ExtraLight.ttf//IBM Plex Sans Thai ExtraLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansThai-ExtraLight.otf//IBM Plex Sans Thai ExtraLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansThai-Light.otf//IBM Plex Sans Thai Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansThai-Light.ttf//IBM Plex Sans Thai Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansThaiLooped-Bold.ttf//IBM Plex Sans Thai Looped Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansThaiLooped-Bold.otf//IBM Plex Sans Thai Looped Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansThaiLooped-ExtraLight.otf//IBM Plex Sans Thai Looped ExtraLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansThaiLooped-ExtraLight.ttf//IBM Plex Sans Thai Looped ExtraLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansThaiLooped-Light.ttf//IBM Plex Sans Thai Looped Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansThaiLooped-Light.otf//IBM Plex Sans Thai Looped Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansThaiLooped-Medium.otf//IBM Plex Sans Thai Looped Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansThaiLooped-Medium.ttf//IBM Plex Sans Thai Looped Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansThaiLooped-Regular.otf//IBM Plex Sans Thai Looped Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansThaiLooped-Regular.ttf//IBM Plex Sans Thai Looped Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansThaiLooped-SemiBold.ttf//IBM Plex Sans Thai Looped SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansThaiLooped-SemiBold.otf//IBM Plex Sans Thai Looped SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansThaiLooped-Text.ttf//IBM Plex Sans Thai Looped Text" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansThaiLooped-Text.otf//IBM Plex Sans Thai Looped Text" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansThaiLooped-Thin.otf//IBM Plex Sans Thai Looped Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansThaiLooped-Thin.ttf//IBM Plex Sans Thai Looped Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansThai-Medium.otf//IBM Plex Sans Thai Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansThai-Medium.ttf//IBM Plex Sans Thai Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansThai-Regular.ttf//IBM Plex Sans Thai Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansThai-Regular.otf//IBM Plex Sans Thai Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansThai-SemiBold.otf//IBM Plex Sans Thai SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansThai-SemiBold.ttf//IBM Plex Sans Thai SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansThai-Text.ttf//IBM Plex Sans Thai Text" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansThai-Text.otf//IBM Plex Sans Thai Text" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSansThai-Thin.ttf//IBM Plex Sans Thai Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSansThai-Thin.otf//IBM Plex Sans Thai Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSans-Thin.ttf//IBM Plex Sans Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSans-Thin.otf//IBM Plex Sans Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSans-ThinItalic.otf//IBM Plex Sans Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSans-ThinItalic.ttf//IBM Plex Sans Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSerif-Bold.ttf//IBM Plex Serif Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSerif-Bold.otf//IBM Plex Serif Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSerif-BoldItalic.ttf//IBM Plex Serif Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSerif-BoldItalic.otf//IBM Plex Serif Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSerif-ExtraLight.ttf//IBM Plex Serif ExtraLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSerif-ExtraLight.otf//IBM Plex Serif ExtraLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSerif-ExtraLightItalic.otf//IBM Plex Serif ExtraLight Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSerif-ExtraLightItalic.ttf//IBM Plex Serif ExtraLight Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSerif-Italic.ttf//IBM Plex Serif Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSerif-Italic.otf//IBM Plex Serif Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSerif-Light.ttf//IBM Plex Serif Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSerif-Light.otf//IBM Plex Serif Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSerif-LightItalic.ttf//IBM Plex Serif Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSerif-LightItalic.otf//IBM Plex Serif Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSerif-Medium.ttf//IBM Plex Serif Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSerif-Medium.otf//IBM Plex Serif Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSerif-MediumItalic.otf//IBM Plex Serif Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSerif-MediumItalic.ttf//IBM Plex Serif Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSerif-Regular.otf//IBM Plex Serif Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSerif-Regular.ttf//IBM Plex Serif Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSerif-SemiBold.otf//IBM Plex Serif SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSerif-SemiBold.ttf//IBM Plex Serif SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSerif-SemiBoldItalic.ttf//IBM Plex Serif SemiBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSerif-SemiBoldItalic.otf//IBM Plex Serif SemiBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSerif-Text.ttf//IBM Plex Serif Text" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSerif-Text.otf//IBM Plex Serif Text" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSerif-TextItalic.ttf//IBM Plex Serif Text Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSerif-TextItalic.otf//IBM Plex Serif Text Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSerif-Thin.otf//IBM Plex Serif Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSerif-Thin.ttf//IBM Plex Serif Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/opentype/IBMPlexSerif-ThinItalic.otf//IBM Plex Serif Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/nix/store/jd1ypmpskv1fbnkdp4c86bxlpmm2q1hz-ibm-plex-1.1.0/share/fonts/truetype/IBMPlexSerif-ThinItalic.ttf//IBM Plex Serif Thin Italic" checksum="(null)">
   </resource>
 
   <resource identifier="external:/nix/store/qmw1z6j4z3ja83cr3kx9azv3z56ads3m-nerd-fonts-jetbrains-mono-3.4.0+2.304/share/fonts/truetype/NerdFonts/JetBrainsMono/JetBrainsMonoNerdFont-Bold.ttf//JetBrainsMono Nerd Font Bold" checksum="(null)">
