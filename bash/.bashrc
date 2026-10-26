@@ -9,6 +9,12 @@ alias ls='ls --color=auto'
 alias grep='grep --color=auto'
 alias l='lazygit'
 alias n='nvim'
+alias maiko='/home/edna/data/bins/maiko'
+alias uxn='/home/edna/data/bins/uxn11'
+alias weight='/home/edna/data/code/scripts/weight'
+alias film='/home/edna/data/code/scripts/film'
+alias dualpush='/home/edna/data/code/scripts/dualpush'
+
 PS1='[\u@\h \W]\$ '
 . "$HOME/.cargo/env"
 cd /home/edna/data/code
@@ -41,20 +47,6 @@ function pkg() {
     xargs -ro sudo pacman -S
 }
 
-# AUR
-function aur() {
-  yay -Slqa | fzf --multi --preview "yay -Sii {1}" \
-    --preview-window "down:65%:wrap" \
-    --bind "alt-p:toggle-preview" \
-    --color "pointer:red,marker:red" |
-    xargs -ro yay -S
-}
-
-# function r() {
-#   cd /home/edna/data/code/ratadot/
-#   cargo run --release
-# }
-#
 . ~/export-esp.sh
 export EDITOR=nvim
 PATH=$PATH:

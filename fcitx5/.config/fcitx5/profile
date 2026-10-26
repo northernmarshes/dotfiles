@@ -10,7 +10,7 @@ DefaultIM=keyboard-pl
 # Name
 Name=keyboard-pl
 # Layout
-Layout=
+# Layout=
 
 [Groups/1]
 # Group Name
@@ -24,13 +24,13 @@ DefaultIM=mozc
 # Name
 Name=keyboard-pl
 # Layout
-Layout=
+# Layout=
 
 [Groups/1/Items/1]
 # Name
 Name=mozc
 # Layout
-Layout=
+# Layout=
 
 [GroupOrder]
 0="Group 1"

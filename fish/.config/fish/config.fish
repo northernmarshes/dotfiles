@@ -18,26 +18,9 @@ function y
     rm -f -- "$tmp"
 end
 
-# pacman
-function pkg
-    pacman -Slq | fzf --multi --preview "pacman -Sii {1}" \
-        --preview-window "down:65%:wrap" \
-        --bind "alt-p:toggle-preview" \
-        --color "pointer:green,marker:green" \
-        | xargs -ro sudo pacman -S
-end
-
 # Key
 function key
     command keychain --eval --quiet github_key | source
 end
 
-# AUR
-function aur
-    yay -Slqa | fzf --multi --preview "yay -Sii {1}" \
-        --preview-window "down:65%:wrap" \
-        --bind "alt-p:toggle-preview" \
-        --color "pointer:red,marker:red" \
-        | xargs -ro yay -S
-end
 . ~/export-esp.sh

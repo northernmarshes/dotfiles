@@ -1,92 +1,96 @@
 {
-    "layer": "top",
-    "position": "top",
-    "height": 32,
-    "spacing": 4,
-    "margin-top": 0,
-    "margin-left": 0,
-    "margin-right": 0,
-
-    "modules-left": ["custom/nix", "sway/workspaces", "sway/mode"],
-    "modules-center": ["clock", ],
-    // "modules-right": ["custom/weather", "clock#jp", "pulseaudio", "network", "battery", "tray", ],
-    "modules-right": ["clock#jp", "bluetooth", "pulseaudio", "network", "tray", ],
-
-    "custom/nix": {
-        // "format": "󰣇",
-        "format": "猿も木から落ちる",
-        "tooltip": false,
-        "on-click": "ghostty -e bash -c 'fastfetch; read'"
+  "layer": "top",
+  "position": "top",
+  "height": 32,
+  "spacing": 4,
+  "margin-top": 0,
+  "margin-left": 0,
+  "margin-right": 0,
+  "modules-left": [
+    "custom/nix",
+    "sway/workspaces",
+    "sway/mode"
+  ],
+  "modules-center": [
+    "clock"
+  ],
+  // "modules-right": ["custom/weather", "clock#jp", "pulseaudio", "network", "battery", "tray", ],
+  "modules-right": [
+    "clock#jp",
+    "bluetooth",
+    "pulseaudio",
+    "network",
+    "tray"
+  ],
+  "custom/nix": {
+    // "format": "󰣇",
+    "format": "猿も木から落ちる",
+    "tooltip": false,
+    "on-click": "ghostty -e bash -c 'fastfetch; read'"
+  },
+  "sway/workspaces": {
+    "disable-scroll": true,
+    "all-outputs": true,
+    "format": "{name}"
+  },
+  "sway/mode": {
+    "format": "<span style='italic'>{}</span>"
+  },
+  "clock": {
+    "format": "  {:%H:%M}",
+    "format-alt": "  {:%A, %d %B %Y}",
+    "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>"
+  },
+  "clock#jp": {
+    "format": " 日本 {:%H:%M}",
+    "timezone": "Asia/Tokyo",
+    "format-alt": "  {:%A, %d %B %Y}",
+    "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>"
+  },
+  // "custom/weather": {
+  //     "format": "{}",
+  //     "tooltip": true,
+  //     "interval": 3600,
+  //     // "exec": "wttrbar --location Gdansk",
+  //     "exec": "wttrbar",
+  //     "return-type": "json"
+  // },
+  // "battery": {
+  //     "states": {
+  //         "good": 95,
+  //         "warning": 30,
+  //         "critical": 15
+  //     },
+  //     "format": "{icon}  {capacity}%",
+  //     "format-charging": "󰂄  {capacity}%",
+  //     "format-plugged": "󰁹  {capacity}%",
+  //     "format-icons": ["", "", "", "", ""]
+  // },
+  "bluetooth": {
+    "format": "󰂯",
+    "on-click": "ghostty -e bluetui"
+  },
+  "network": {
+    "format-wifi": "  {signalStrength}%",
+    // "format-ethernet": "󰈀  {ipaddr}",
+    "format-ethernet": "󰈀 ",
+    "format-disconnected": "󰖪  offline",
+    "tooltip-format": "{essid} ({signalStrength}%) — {ipaddr}",
+    "on-click": "ghostty -e impala"
+  },
+  "pulseaudio": {
+    "format": "{icon}  {volume}%",
+    "format-muted": "  mute",
+    "format-icons": {
+      "default": [
+        "",
+        "",
+        ""
+      ]
     },
-
-    "sway/workspaces": {
-        "disable-scroll": true,
-        "all-outputs": true,
-        "format": "{name}"
-    },
-
-    "sway/mode": {
-        "format": "<span style='italic'>{}</span>"
-    },
-
-    "clock": {
-        "format": "  {:%H:%M}",
-        "format-alt": "  {:%A, %d %B %Y}",
-        "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>"
-    },
-
-    "clock#jp": {
-        "format": " 日本 {:%H:%M}",
-        "timezone": "Asia/Tokyo",
-        "format-alt": "  {:%A, %d %B %Y}",
-        "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>"
-    },
-
-    // "custom/weather": {
-    //     "format": "{}",
-    //     "tooltip": true,
-    //     "interval": 3600,
-    //     // "exec": "wttrbar --location Gdansk",
-    //     "exec": "wttrbar",
-    //     "return-type": "json"
-    // },
-
-    // "battery": {
-    //     "states": {
-    //         "good": 95,
-    //         "warning": 30,
-    //         "critical": 15
-    //     },
-    //     "format": "{icon}  {capacity}%",
-    //     "format-charging": "󰂄  {capacity}%",
-    //     "format-plugged": "󰁹  {capacity}%",
-    //     "format-icons": ["", "", "", "", ""]
-    // },
-
-    "bluetooth": {
-      "format": "󰂯",
-      "on-click": "ghostty -e bluetui"
-    },
-
-    "network": {
-        "format-wifi": "  {signalStrength}%",
-        // "format-ethernet": "󰈀  {ipaddr}",
-        "format-ethernet": "󰈀 ",
-        "format-disconnected": "󰖪  offline",
-        "tooltip-format": "{essid} ({signalStrength}%) — {ipaddr}",
-        "on-click": "ghostty -e impala"
-    },
-
-    "pulseaudio": {
-        "format": "{icon}  {volume}%",
-        "format-muted": "  mute",
-        "format-icons": {
-            "default": ["", "", ""]
-        },
-        "on-click": "pavucontrol"
-    },
-
-    "tray": {
-        "spacing": 8
-    }
+    "on-click": "pavucontrol"
+  },
+  "tray": {
+    "spacing": 8
+  }
 }
