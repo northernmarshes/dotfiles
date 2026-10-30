@@ -14,6 +14,7 @@ alias uxn='/home/edna/data/bins/uxn11'
 alias weight='/home/edna/data/code/scripts/weight'
 alias film='/home/edna/data/code/scripts/film'
 alias dualpush='/home/edna/data/code/scripts/dualpush'
+alias applied='/home/edna/data/code/scripts/applied'
 
 PS1='[\u@\h \W]\$ '
 . "$HOME/.cargo/env"
@@ -38,6 +39,8 @@ function key() {
   eval "$(keychain --eval github_key)"
 }
 
+key >/dev/null 2>&1
+
 # pacman
 function pkg() {
   pacman -Slq | fzf --multi --preview "pacman -Sii {1}" \
@@ -45,6 +48,36 @@ function pkg() {
     --bind "alt-p:toggle-preview" \
     --color "pointer:green,marker:green" |
     xargs -ro sudo pacman -S
+}
+
+# C
+
+function crun() {
+  NAME=${PWD##*/}
+  gcc src/main.c -o bin/$NAME
+  bin/$NAME
+}
+
+function cinit() {
+  NAME=$1
+  mkdir $NAME
+  mkdir $NAME/bin $NAME/src
+  touch $NAME/src/main.c $NAME/README.md
+  touch $NAME/.gitignore
+  cd $NAME
+  echo "#$NAME" >README.md
+  echo bin/ >>.gitignore
+  git init >/dev/null 2>&1
+  cd src
+
+  # cat >> main.c<< EOF
+  # some text line 1
+  # some text line 2
+  # some text line 3
+  # EOF
+
+  cd ..
+  cd ..
 }
 
 . ~/export-esp.sh
