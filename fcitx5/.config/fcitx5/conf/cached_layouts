@@ -534,7 +534,7 @@ Language=pl
 Label="pl (colemak_dh)"
 
 [keyboard-pl-colemak_dh_ortho]
-Description="Keyboard - Polski - Polish (Colemak-DH Ortholinear)"
+Description="Keyboard - Polski - Polski (Colemak-DH ortoliniowa)"
 Language=pl
 Label="pl (colemak_dh_ortho)"
 
@@ -1079,9 +1079,14 @@ Language=ar
 Label="ar (ara)"
 
 [keyboard-pk-snd]
-Description="Keyboard - Urdu (Pakistan) - Sindhi"
+Description="Keyboard - Urdu (Pakistan) - Sindhi (M.B. Sindhi)"
 Language=sd
 Label="sd (snd)"
+
+[keyboard-pk-brahui]
+Description="Keyboard - Urdu (Pakistan) - Brahui (pakistański)"
+Language=brh
+Label="brh (brahui)"
 
 [keyboard-pk-urd-navees]
 Description="Keyboard - Urdu (Pakistan) - Urdu (Pakistan, Navees)"
@@ -1593,6 +1598,11 @@ Description="Keyboard - Białoruski - Białoruski (fonetyczny)"
 Language=be
 Label="by (phonetic)"
 
+[keyboard-by-typographic]
+Description="Keyboard - Białoruski - Białoruski (typograficzny)"
+Language=be
+Label="by (typographic)"
+
 [keyboard-by-ru]
 Description="Keyboard - Białoruski - Rosyjski (Białoruś)"
 Language=ru
@@ -1837,6 +1847,16 @@ Label="hr (unicodeus)"
 Description="Keyboard - Chorwacki - Chorwacki (USA)"
 Language=hr
 Label="hr (us)"
+
+[keyboard-hr-glag]
+Description="Keyboard - Chorwacki - Chorwacki (głagolicki)"
+Language=hr
+Label="hr (glag)"
+
+[keyboard-hr-glagyz]
+Description="Keyboard - Chorwacki - Chorwacki (głagolicki, zamienione zemlja i jeru)"
+Language=hr
+Label="hr (glagyz)"
 
 [keyboard-ma]
 Description="Keyboard - Arabski (marokański)"
@@ -3252,6 +3272,11 @@ Label=az
 Description="Keyboard - Azerbejdżański - Azerbejdżański (cyrylica)"
 Language=az
 Label="az (cyrillic)"
+
+[keyboard-az-standard]
+Description="Keyboard - Azerbejdżański - Azerbejdżański (standardowy)"
+Language=az
+Label="az (standard)"
 
 [keyboard-kh]
 Description="Keyboard - Khmerski (Kambodża)"
